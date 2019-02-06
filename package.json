@@ -1,0 +1,22 @@
+{
+  "name": "winston_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangakumard/14_Winston_Sample.git"
+  },
+  "author": "thangakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thangakumard/14_Winston_Sample/issues"
+  },
+  "homepage": "https://github.com/thangakumard/14_Winston_Sample#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
